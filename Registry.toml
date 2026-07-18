@@ -4,3 +4,4 @@ repo = "https://github.com/JuliaReliab/Registry.git"
 description = "Julia package registry for JuliaReliab"
 
 [packages]
+aa22cf4d-d005-5d21-a85e-c2597cc45fba = { name = "libmeddly_c_jll", path = "jll/L/libmeddly_c_jll" }
