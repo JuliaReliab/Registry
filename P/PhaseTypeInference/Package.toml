@@ -1,0 +1,3 @@
+name = "PhaseTypeInference"
+uuid = "9de3d125-e2c0-466a-b339-661d5ab3129e"
+repo = "https://github.com/JuliaReliab/PhaseTypeInference.jl.git"
