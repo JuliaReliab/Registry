@@ -4,6 +4,7 @@ repo = "https://github.com/JuliaReliab/Registry.git"
 description = "Julia package registry for JuliaReliab"
 
 [packages]
+6af5a0ae-9b1e-11ea-302b-a1bb748cae78 = { name = "PhaseTypeDistributions", path = "P/PhaseTypeDistributions" }
 7f3c8b2a-1d4e-4a5f-b6c0-9d8e7f3c1b2a = { name = "Meddly", path = "M/Meddly" }
 92955551-dcbb-4ab3-ac34-b1f61f738b48 = { name = "DEQuadrature", path = "D/DEQuadrature" }
 aa22cf4d-d005-5d21-a85e-c2597cc45fba = { name = "libmeddly_c_jll", path = "jll/L/libmeddly_c_jll" }
